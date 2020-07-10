@@ -1,2 +1,2 @@
-# hello-world
-this is my database
+def run():
+  print("hello world!")

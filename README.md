@@ -1,2 +1,1 @@
-def run():
-  print("hello world!")
+Store Python notes
